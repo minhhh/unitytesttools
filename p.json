@@ -1,0 +1,8 @@
+{
+    "assets": [
+        "UnityTestTools/Assertion",
+        "UnityTestTools/Common",
+        "UnityTestTools/IntegrationTestFramework",
+        "UnityTestTools/UnitTesting"
+    ]
+}
