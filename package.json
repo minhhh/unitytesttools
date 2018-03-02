@@ -1,6 +1,6 @@
 {
   "name": "unitytesttools",
-  "version": "1.5.9",
+  "version": "1.5.6",
   "description": "This is the source for the Unity Test Tools package.",
   "main": "index.js",
   "files": [

@@ -5,23 +5,23 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400000}
-  - component: {fileID: 13600000}
-  - component: {fileID: 5400000}
-  - component: {fileID: 11400010}
-  - component: {fileID: 11400008}
-  - component: {fileID: 11400006}
-  - component: {fileID: 8200000}
-  - component: {fileID: 11400018}
+  - 4: {fileID: 400000}
+  - 136: {fileID: 13600000}
+  - 54: {fileID: 5400000}
+  - 114: {fileID: 11400010}
+  - 114: {fileID: 11400008}
+  - 114: {fileID: 11400006}
+  - 82: {fileID: 8200000}
+  - 114: {fileID: 11400018}
   m_Layer: 9
   m_Name: EnemySpider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100001
 EditorExtensionImpl:
   serializedVersion: 6
@@ -30,18 +30,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400002}
-  - component: {fileID: 3300000}
-  - component: {fileID: 2300000}
+  - 4: {fileID: 400002}
+  - 33: {fileID: 3300000}
+  - 23: {fileID: 2300000}
   m_Layer: 9
-  m_Name: minebot_front_lowerleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100003
 EditorExtensionImpl:
   serializedVersion: 6
@@ -50,19 +50,19 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400004}
-  - component: {fileID: 3300002}
-  - component: {fileID: 2300002}
-  - component: {fileID: 11400024}
+  - 4: {fileID: 400004}
+  - 33: {fileID: 3300002}
+  - 23: {fileID: 2300002}
+  - 114: {fileID: 11400024}
   m_Layer: 9
-  m_Name: minebot_head
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100005
 EditorExtensionImpl:
   serializedVersion: 6
@@ -71,18 +71,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400010}
-  - component: {fileID: 3300006}
-  - component: {fileID: 2300006}
+  - 4: {fileID: 400010}
+  - 33: {fileID: 3300006}
+  - 23: {fileID: 2300006}
   m_Layer: 9
-  m_Name: minebot_right_upperleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100007
 EditorExtensionImpl:
   serializedVersion: 6
@@ -91,18 +91,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400012}
-  - component: {fileID: 3300008}
-  - component: {fileID: 2300008}
+  - 4: {fileID: 400012}
+  - 33: {fileID: 3300008}
+  - 23: {fileID: 2300008}
   m_Layer: 9
-  m_Name: minebot_right_lowerleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100009
 EditorExtensionImpl:
   serializedVersion: 6
@@ -111,18 +111,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400014}
-  - component: {fileID: 3300010}
-  - component: {fileID: 2300010}
+  - 4: {fileID: 400014}
+  - 33: {fileID: 3300010}
+  - 23: {fileID: 2300010}
   m_Layer: 9
-  m_Name: minebot_front_upperleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100011
 EditorExtensionImpl:
   serializedVersion: 6
@@ -131,18 +131,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400016}
-  - component: {fileID: 3300012}
-  - component: {fileID: 2300012}
+  - 4: {fileID: 400016}
+  - 33: {fileID: 3300012}
+  - 23: {fileID: 2300012}
   m_Layer: 9
-  m_Name: minebot_back_lowerleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100013
 EditorExtensionImpl:
   serializedVersion: 6
@@ -151,18 +151,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400018}
-  - component: {fileID: 3300014}
-  - component: {fileID: 2300014}
+  - 4: {fileID: 400018}
+  - 33: {fileID: 3300014}
+  - 23: {fileID: 2300014}
   m_Layer: 9
-  m_Name: minebot_left_upperleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100015
 EditorExtensionImpl:
   serializedVersion: 6
@@ -171,18 +171,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400020}
-  - component: {fileID: 3300016}
-  - component: {fileID: 2300016}
+  - 4: {fileID: 400020}
+  - 33: {fileID: 3300016}
+  - 23: {fileID: 2300016}
   m_Layer: 9
-  m_Name: minebot_left_lowerleg
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100017
 EditorExtensionImpl:
   serializedVersion: 6
@@ -191,18 +191,18 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400032}
-  - component: {fileID: 3300018}
-  - component: {fileID: 2300018}
+  - 4: {fileID: 400032}
+  - 33: {fileID: 3300018}
+  - 23: {fileID: 2300018}
   m_Layer: 9
-  m_Name: minebot_front_upperleg 1
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100019
 EditorExtensionImpl:
   serializedVersion: 6
@@ -211,19 +211,19 @@ GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400006}
-  - component: {fileID: 3300004}
-  - component: {fileID: 2300004}
-  - component: {fileID: 11400022}
+  - 4: {fileID: 400006}
+  - 33: {fileID: 3300004}
+  - 23: {fileID: 2300004}
+  - 114: {fileID: 11400022}
   m_Layer: 9
-  m_Name: minebot_main
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100021
 EditorExtensionImpl:
   serializedVersion: 6
@@ -232,17 +232,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400024}
-  - component: {fileID: 11400012}
+  - 4: {fileID: 400024}
+  - 114: {fileID: 11400012}
   m_Layer: 9
-  m_Name: DamagePos
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100023
 EditorExtensionImpl:
   serializedVersion: 6
@@ -251,17 +251,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400026}
-  - component: {fileID: 11400000}
+  - 4: {fileID: 400026}
+  - 114: {fileID: 11400000}
   m_Layer: 9
-  m_Name: AIAttack
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100025
 EditorExtensionImpl:
   serializedVersion: 6
@@ -270,19 +270,19 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400022}
-  - component: {fileID: 13500000}
-  - component: {fileID: 11400004}
-  - component: {fileID: 8200002}
+  - 4: {fileID: 400022}
+  - 135: {fileID: 13500000}
+  - 114: {fileID: 11400004}
+  - 82: {fileID: 8200002}
   m_Layer: 11
-  m_Name: AI
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100027
 EditorExtensionImpl:
   serializedVersion: 6
@@ -291,17 +291,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400028}
-  - component: {fileID: 11400002}
+  - 4: {fileID: 400028}
+  - 114: {fileID: 11400002}
   m_Layer: 9
-  m_Name: AIReturn
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100029
 EditorExtensionImpl:
   serializedVersion: 6
@@ -310,18 +310,18 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400030}
-  - component: {fileID: 11400014}
-  - component: {fileID: 13500002}
+  - 4: {fileID: 400030}
+  - 114: {fileID: 11400014}
+  - 135: {fileID: 13500002}
   m_Layer: 11
-  m_Name: ActiveRadius
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100031
 EditorExtensionImpl:
   serializedVersion: 6
@@ -330,18 +330,18 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400008}
-  - component: {fileID: 11100000}
-  - component: {fileID: 11400016}
+  - 4: {fileID: 400008}
+  - 111: {fileID: 11100000}
+  - 114: {fileID: 11400016}
   m_Layer: 9
-  m_Name: mine_bot
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100033
 EditorExtensionImpl:
   serializedVersion: 6
@@ -350,17 +350,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400034}
-  - component: {fileID: 8200004}
+  - 4: {fileID: 400034}
+  - 82: {fileID: 8200004}
   m_Layer: 9
-  m_Name: SkiddingAudioSource
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100035
 EditorExtensionImpl:
   serializedVersion: 6
@@ -369,17 +369,17 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400036}
-  - component: {fileID: 8200006}
+  - 4: {fileID: 400036}
+  - 82: {fileID: 8200006}
   m_Layer: 9
-  m_Name: FootstepAudioSource
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100037
 EditorExtensionImpl:
   serializedVersion: 6
@@ -388,19 +388,19 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400038}
-  - component: {fileID: 3300020}
-  - component: {fileID: 2300020}
-  - component: {fileID: 11400020}
+  - 4: {fileID: 400038}
+  - 33: {fileID: 3300020}
+  - 23: {fileID: 2300020}
+  - 114: {fileID: 11400020}
   m_Layer: 0
-  m_Name: GlowPlaneSpider
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100039
 EditorExtensionImpl:
   serializedVersion: 6
@@ -409,18 +409,18 @@ GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
+  serializedVersion: 4
   m_Component:
-  - component: {fileID: 400040}
-  - component: {fileID: 3300022}
-  - component: {fileID: 2300022}
+  - 4: {fileID: 400040}
+  - 33: {fileID: 3300022}
+  - 23: {fileID: 2300022}
   m_Layer: 0
-  m_Name: Blob
+  m_Name: 
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1002 &100041
 EditorExtensionImpl:
   serializedVersion: 6
@@ -433,6 +433,7 @@ Transform:
   m_LocalRotation: {x: 0, y: -0.8760627, z: 0, w: -0.4821972}
   m_LocalPosition: {x: 12.058421, y: -0.004239261, z: 15.679903}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400022}
   - {fileID: 400026}
@@ -446,7 +447,6 @@ Transform:
   - {fileID: 400034}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400001
 EditorExtensionImpl:
   serializedVersion: 6
@@ -459,10 +459,10 @@ Transform:
   m_LocalRotation: {x: -0.008426809, y: -0.000069992035, z: -0.000030909396, w: 0.99996454}
   m_LocalPosition: {x: -0.000000018590596, y: -0.12080678, z: 0.39789262}
   m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400032}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400003
 EditorExtensionImpl:
   serializedVersion: 6
@@ -476,10 +476,10 @@ Transform:
     w: 1}
   m_LocalPosition: {x: 0.00000008909922, y: 0.45082316, z: -0.000000056954597}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400006}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400005
 EditorExtensionImpl:
   serializedVersion: 6
@@ -492,6 +492,7 @@ Transform:
   m_LocalRotation: {x: 0.5000001, y: -0.49999997, z: -0.49999982, w: 0.5000001}
   m_LocalPosition: {x: -0, y: -0.000000018214555, z: 0.37071997}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400014}
   - {fileID: 400032}
@@ -500,7 +501,6 @@ Transform:
   - {fileID: 400010}
   m_Father: {fileID: 400008}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400007
 EditorExtensionImpl:
   serializedVersion: 6
@@ -513,11 +513,11 @@ Transform:
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: -0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400006}
   m_Father: {fileID: 400000}
   m_RootOrder: 8
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400009
 EditorExtensionImpl:
   serializedVersion: 6
@@ -530,11 +530,11 @@ Transform:
   m_LocalRotation: {x: -0.4938536, y: 0.50490654, z: 0.4954421, w: 0.5056828}
   m_LocalPosition: {x: 0.36594236, y: -0.103398986, z: 0.0000001351506}
   m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400012}
   m_Father: {fileID: 400006}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400011
 EditorExtensionImpl:
   serializedVersion: 6
@@ -547,10 +547,10 @@ Transform:
   m_LocalRotation: {x: -0.0037455678, y: 0.00047785335, z: 0.00055707025, w: 0.9999927}
   m_LocalPosition: {x: -0.000000018402934, y: -0.12080674, z: 0.39789256}
   m_LocalScale: {x: 1, y: 0.9999998, z: 0.99999994}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400010}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400013
 EditorExtensionImpl:
   serializedVersion: 6
@@ -563,11 +563,11 @@ Transform:
   m_LocalRotation: {x: 0.00005378027, y: 0.7084788, z: 0.70573217, w: 0.000027028063}
   m_LocalPosition: {x: -0.00000009298322, y: -0.10339903, z: -0.36594245}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400016}
   m_Father: {fileID: 400006}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400015
 EditorExtensionImpl:
   serializedVersion: 6
@@ -580,10 +580,10 @@ Transform:
   m_LocalRotation: {x: -0.00843205, y: 0.000024319022, z: 0.000028339457, w: 0.9999645}
   m_LocalPosition: {x: -0.00000001859211, y: -0.12080678, z: 0.39789253}
   m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400014}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400017
 EditorExtensionImpl:
   serializedVersion: 6
@@ -596,11 +596,11 @@ Transform:
   m_LocalRotation: {x: -0.48992172, y: -0.509469, z: -0.48969793, w: 0.5105038}
   m_LocalPosition: {x: -0.36594263, y: -0.10339901, z: 0.00000005403096}
   m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400020}
   m_Father: {fileID: 400006}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400019
 EditorExtensionImpl:
   serializedVersion: 6
@@ -613,10 +613,10 @@ Transform:
   m_LocalRotation: {x: -0.003772634, y: -0.0003011082, z: 0.00026565636, w: 0.99999285}
   m_LocalPosition: {x: -0.00000001859665, y: -0.12080674, z: 0.3978926}
   m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400018}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400021
 EditorExtensionImpl:
   serializedVersion: 6
@@ -629,10 +629,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400023
 EditorExtensionImpl:
   serializedVersion: 6
@@ -645,10 +645,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400025
 EditorExtensionImpl:
   serializedVersion: 6
@@ -661,10 +661,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400027
 EditorExtensionImpl:
   serializedVersion: 6
@@ -677,10 +677,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400029
 EditorExtensionImpl:
   serializedVersion: 6
@@ -693,10 +693,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400031
 EditorExtensionImpl:
   serializedVersion: 6
@@ -709,11 +709,11 @@ Transform:
   m_LocalRotation: {x: -0.7057329, y: 0.00006328893, z: -0.000114930284, w: 0.70847803}
   m_LocalPosition: {x: -0.00000015497206, y: -0.10339903, z: 0.3659426}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 400002}
   m_Father: {fileID: 400006}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400033
 EditorExtensionImpl:
   serializedVersion: 6
@@ -726,10 +726,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 9
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400035
 EditorExtensionImpl:
   serializedVersion: 6
@@ -742,10 +742,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400037
 EditorExtensionImpl:
   serializedVersion: 6
@@ -758,10 +758,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 1.042866, z: 0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400039
 EditorExtensionImpl:
   serializedVersion: 6
@@ -774,10 +774,10 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.01797533, z: -0}
   m_LocalScale: {x: 0.2, y: 0.2, z: 0.2}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_Children: []
   m_Father: {fileID: 400000}
   m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1002 &400041
 EditorExtensionImpl:
   serializedVersion: 6
@@ -795,9 +795,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -805,13 +803,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300001
 EditorExtensionImpl:
@@ -830,9 +827,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -840,13 +835,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300003
 EditorExtensionImpl:
@@ -865,9 +859,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -875,13 +867,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300005
 EditorExtensionImpl:
@@ -900,9 +891,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -910,13 +899,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300007
 EditorExtensionImpl:
@@ -935,9 +923,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -945,13 +931,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300009
 EditorExtensionImpl:
@@ -970,9 +955,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -980,13 +963,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300011
 EditorExtensionImpl:
@@ -1005,9 +987,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1015,13 +995,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300013
 EditorExtensionImpl:
@@ -1040,9 +1019,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1050,13 +1027,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300015
 EditorExtensionImpl:
@@ -1075,9 +1051,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1085,13 +1059,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300017
 EditorExtensionImpl:
@@ -1110,9 +1083,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: ca159162814614f2e96f37b3192a5868, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1120,13 +1091,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300019
 EditorExtensionImpl:
@@ -1145,9 +1115,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: 8f72bd63908224f2bb00f3844f7d1018, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1155,13 +1123,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300021
 EditorExtensionImpl:
@@ -1180,9 +1147,7 @@ MeshRenderer:
   m_ReflectionProbeUsage: 1
   m_Materials:
   - {fileID: 2100000, guid: 5231caf19bce04df29d48d73a92356f2, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
+  m_SubsetIndices: 
   m_StaticBatchRoot: {fileID: 0}
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
@@ -1190,13 +1155,12 @@ MeshRenderer:
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
+  m_SelectedWireframeHidden: 0
   m_MinimumChartSize: 4
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
-  m_SortingLayer: 0
   m_SortingOrder: 0
 --- !u!1002 &2300023
 EditorExtensionImpl:
@@ -1355,7 +1319,6 @@ AudioSource:
   Loop: 0
   Mute: 0
   Spatialize: 0
-  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 4
@@ -1368,20 +1331,17 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0.13333334
+    - time: 0.13333334
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - serializedVersion: 2
-      time: 0.49382603
+    - time: 0.49382603
       value: 0.31266546
       inSlope: -1.2621783
       outSlope: -1.2621783
       tangentMode: 34
-    - serializedVersion: 2
-      time: 1
+    - time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1392,8 +1352,7 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1404,8 +1363,7 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1416,8 +1374,7 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1444,7 +1401,6 @@ AudioSource:
   Loop: 0
   Mute: 0
   Spatialize: 0
-  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 4
@@ -1457,20 +1413,17 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0.13333334
+    - time: 0.13333334
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - serializedVersion: 2
-      time: 0.49359342
+    - time: 0.49359342
       value: 0.32406816
       inSlope: -1.2580847
       outSlope: -1.2580847
       tangentMode: 34
-    - serializedVersion: 2
-      time: 1
+    - time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1481,8 +1434,7 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1493,8 +1445,7 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1505,8 +1456,7 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1533,7 +1483,6 @@ AudioSource:
   Loop: 1
   Mute: 0
   Spatialize: 0
-  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 4
@@ -1546,20 +1495,17 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0.13333334
+    - time: 0.13333334
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - serializedVersion: 2
-      time: 0.5000539
+    - time: 0.5000539
       value: 0.26562226
       inSlope: -1.266928
       outSlope: -1.266928
       tangentMode: 34
-    - serializedVersion: 2
-      time: 1
+    - time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1570,8 +1516,7 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1582,8 +1527,7 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1594,8 +1538,7 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1622,7 +1565,6 @@ AudioSource:
   Loop: 0
   Mute: 0
   Spatialize: 0
-  SpatializePostEffects: 0
   Priority: 128
   DopplerLevel: 1
   MinDistance: 4
@@ -1635,20 +1577,17 @@ AudioSource:
   rolloffCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0.13333334
+    - time: 0.13333334
       value: 1
       inSlope: 0
       outSlope: 0
       tangentMode: 0
-    - serializedVersion: 2
-      time: 0.5000539
+    - time: 0.5000539
       value: 0.26562226
       inSlope: -1.266928
       outSlope: -1.266928
       tangentMode: 34
-    - serializedVersion: 2
-      time: 1
+    - time: 1
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1659,8 +1598,7 @@ AudioSource:
   panLevelCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
@@ -1671,8 +1609,7 @@ AudioSource:
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 0
       inSlope: 0
       outSlope: 0
@@ -1683,8 +1620,7 @@ AudioSource:
   reverbZoneMixCustomCurve:
     serializedVersion: 2
     m_Curve:
-    - serializedVersion: 2
-      time: 0
+    - time: 0
       value: 1
       inSlope: 0
       outSlope: 0
